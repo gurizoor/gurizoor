@@ -1,4 +1,5 @@
-・Name: gurizoor
-・Age: 15
-・Country: japan
-・Currently studying English.
+## About me
+- Name: gurizoor
+- Age: 15
+- Country: japan
+- Currently studying English.
