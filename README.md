@@ -4,4 +4,5 @@
 - Country: japan
 - Currently studying English.
 - Favorite
-  - [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square)](https://www.typescriptlang.org/)
+  - ![Rust](https://img.shields.io/badge/-Rust-555.svg?logo=rust&style=flat)
+  - ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square)
